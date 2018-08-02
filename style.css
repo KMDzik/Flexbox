@@ -13,29 +13,9 @@ body{
     margin: 0 auto;
 }
 
-.flex-container {
-    display: flex;
-    flex-wrap: wrap-reverse;
-}
+/* menu base styles */
 
-.box{
-    height: 100px;
-    min-width: 200px;
-    flex-grow: 1;
 
-}
 
-.one{
-    background-color: red;
-    
-}
 
-.two{
-    background-color: blue;
-    
-}
-
-.three{
-    background-color: green;
-    
-}
+/* flex styles */
